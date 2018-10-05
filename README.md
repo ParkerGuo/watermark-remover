@@ -11,7 +11,7 @@ Instructions:
    watermark-remover <Your Input Image Directory>
 2. Drag the first trackbar to change your "morphing" element, this will determine how the watermark will resolve into background.
 3. Drag the second trackbar to change the strength of morphing.
-4. The result will update as you drag the trackbars and will automatically write the image under the same directory with "_removed.jpg" added after the oiginal picture's name.
+4. The result will update as you drag the trackbars and will automatically write the image under the same directory with "_removed.jpg" added after the original picture's name.
 
 Notice:
 This application is free for any usage and will be infrequently updated by me. You are responsible for any legal issues involved when using this application.
