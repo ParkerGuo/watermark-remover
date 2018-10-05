@@ -4,7 +4,7 @@ Version: 1.0
 Date: 10/5/2018
 
 Description:
-This C++ program uses opening morphology on entire picture range removes any watermark with high contrast color values.
+This C++ program uses opening morphology on entire picture range and removes any watermark with high contrast color values.
 
 Instructions:
 1. In windows command line switch to the x64\Debug directory of this program. Launch the exe with the following command:
